@@ -1,3 +1,5 @@
+/*! css3 card transition plugin for Cycle2;  version: 20160610 */
+/*! originally written by Kookas (https://github.com/Kookas) */
 (function($) {
 "use strict";
 
